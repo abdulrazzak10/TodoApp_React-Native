@@ -22,11 +22,3 @@ A simple, clean, and minimalist Todo list application built with React Native an
 2. Install dependencies: `npm install`
 3. Start the application: `npm start`
 4. Use Expo Go app to scan the QR code and run on your device
-
-## Screenshots
-
-(Add screenshots here)
-
-## License
-
-0BSD 
